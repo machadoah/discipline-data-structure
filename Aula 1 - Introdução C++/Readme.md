@@ -1,5 +1,5 @@
 ## Enunciados
-### Estruturas sequenciais
+### Exercicios da Aula 1 - Introdução C++
 #### [Exercicio 001](Exercicios(cpp)/exercicio1.cpp)
 
 Crie um programa que solicite ao usuário os três coeficientes de uma equação do segundo grau e informe os valores de x’ e x’’.
