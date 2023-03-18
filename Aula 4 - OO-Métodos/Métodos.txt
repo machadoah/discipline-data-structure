@@ -1,0 +1,30 @@
+-------------------------------
+ORIENTAÇÃO A OBJETOS - MÉTODOS
+-------------------------------
+
+Um método é uma sub-rotina que é executada por um objeto ao receber uma mensagem, os métodos determinam o comportamento dos objetos de uma classe e são análogos a funções ou procedimentos da programação estruturada.
+
+O método é a ação de uma classe, segue a seguinte estrutura:
+
+
+
+	tipo nome_do_método(parâmetros) {
+
+	// intruções
+
+	retorno
+
+	}
+
+
+ =>	IMPORTANTE
+
+- TIPO do método é o tipo de dado que será o RETORNO
+
+- NOME_DO_MÉTODOS nome do método
+
+- PARÂMETROS dados inseridos na entrada da ação do método
+
+- RETORNO respeita o tipo do método
+
+
